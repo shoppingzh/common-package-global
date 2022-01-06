@@ -1,0 +1,19 @@
+{
+  "lodash": "_",
+  "dayjs": "dayjs",
+  "moment": "moment",
+  "axios": "axios",
+
+  "vue": "Vue",
+  "vue-router": "VueRouter",
+  "vuex": "Vuex",
+
+  "video.js": "videojs",
+  "echarts": "echarts",
+  "moveable": "Moveable",
+  "pdfjs-dist": "pdfjsLib",
+  "tinymce": "tinymce",
+  "clipboard": "ClipboardJS",
+  "intro.js": "introJs",
+  "swiper": "Swiper"
+}
